@@ -1,0 +1,52 @@
+[
+    {
+        "data": "13:39, 02 січня 2021",
+        "link_news": "https://www.unian.ua/science/mutaciya-koronavirusu-vcheni-poperedili-pro-visoku-zaraznist-britanskogo-shtamu-novini-11274635.html",
+        "title": "BBC: дослідження показало високу заразність \"британського штаму\" коронавірусу"
+    },
+    {
+        "data": "21:55, 01 січня 2021",
+        "link_news": "https://www.unian.ua/science/kiberataka-rosiyski-hakeri-otrimali-dostup-do-vihidnogo-kodu-microsoft-novini-11274413.html",
+        "title": "Пов'язані з Росією хакери отримали доступ до вихідного коду програм Microsoft"
+    },
+    {
+        "data": "08:00, 01 січня 2021",
+        "link_news": "https://www.unian.net/games/10-igr-kotorye-stoit-proyti-vo-vremya-novogodnih-prazdnikov-igry-11269985.html",
+        "title": "10 ігор, які варто пройти під час новорічних свят"
+    },
+    {
+        "data": "21:41, 31 грудня 2020",
+        "link_news": "https://www.unian.ua/science/magnitni-buri-v-sichni-kalendar-magnitnih-bur-u-sichni-2021-novini-11273876.html",
+        "title": "Магнітні бурі у січні 2021: названо небезпечні дати"
+    },
+    {
+        "data": "18:00, 31 грудня 2020",
+        "link_news": "https://www.unian.ua/games/na-noviy-rik-geymeram-podaruyut-gru-jurassic-world-evolution-igri-11273576.html",
+        "title": "На Новий рік геймерам подарують економічний симулятор про парк динозаврів"
+    },
+    {
+        "data": "11:12, 31 грудня 2020",
+        "link_news": "https://www.unian.ua/games/stalker-2-ne-viyde-na-playstation-5-rozrobniki-rozcharuvali-faniv-igri-11273534.html",
+        "title": "Розробники підтвердили, що S.T.A.L.K.E.R. 2 не вийде на PlayStation 5"
+    },
+    {
+        "data": "22:36, 30 грудня 2020",
+        "link_news": "https://www.unian.ua/games/stalker-2-viyshov-noviy-geympleyniy-treyler-shutera-igri-11273354.html",
+        "title": "Головний герой та моторошні аномалії: вийшов новий геймплейний трейлер шутера S.T.A.L.K.E.R. 2 (відео)"
+    },
+    {
+        "data": "20:16, 30 грудня 2020",
+        "link_news": "https://www.unian.ua/science/poshuki-inoplanetyan-pentagon-i-rozvidka-ssha-opublikuyut-zvit-pro-kontakti-z-nlo-novini-11273282.html",
+        "title": "Уряд США опублікує звіт про контакти з НЛО в 2021 році"
+    },
+    {
+        "data": "19:14, 30 грудня 2020",
+        "link_news": "https://www.unian.ua/games/u-sichni-pidpisnikam-playstation-plus-dadut-shadow-of-the-tomb-raider-igri-11273216.html",
+        "title": "У січні передплатникам PS Plus дадуть безкоштовно останню частину Tomb Raider та ще дві гри"
+    },
+    {
+        "data": "18:02, 30 грудня 2020",
+        "link_news": "https://www.unian.ua/games/v-epic-games-store-pochalasya-bezkoshtovna-rozdacha-gri-torchlight-ii-igri-11272763.html",
+        "title": "В Epic Games Store почалася роздача гри Torchlight II"
+    }
+]
